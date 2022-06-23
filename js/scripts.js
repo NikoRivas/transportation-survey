@@ -1,4 +1,3 @@
-// User Interface Logic
 function handleForm(event) {
   event.preventDefault();
   const userSelections = document.querySelectorAll(
